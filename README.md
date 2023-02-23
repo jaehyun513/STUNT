@@ -43,6 +43,12 @@ python eval.py --data_name <DATASET> --shot_num <SHOT> --seed <SEED> --load_path
 
 ## Citation
 ```
+@inproceedings{nam2023stunt,
+  title={STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables},
+  author={Jaehyun Nam and Jihoon Tack and Kyungmin Lee and Hankook Lee and Jinwoo Shin},
+  booktitle={International Conference on Learning Representations},
+  year={2023}
+}
 ```
 
 ## Reference

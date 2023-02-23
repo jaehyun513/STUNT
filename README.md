@@ -4,6 +4,10 @@ Official PyTorch implementation of ["STUNT: Few-shot Tabular Learning with Self-
 
 **TL;DR**: We propose a few-shot semi-supervised tabular learning framework that meta-learns over the self-generated tasks from unlabeled tables.
 
+<p align="center">
+    <img src=figure/concept_figure.png width="900"> 
+</p>
+
 ## 1. Dependencies
 ```
 conda create -n stunt python=3.8 -y

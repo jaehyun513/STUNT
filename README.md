@@ -36,7 +36,7 @@ python main.py --mode <MODE> --model <MODEL> --dataset <DATASET>
 ```
 
 ## 4. Evaluation
-Place the labeled sample index of the test set in data/<DATASET>/index<SHOT> before evaluation.
+Place the labeled sample index of the test set in data/'<DATASET>'/index'<SHOT>' before evaluation.
 ```
 python eval.py --data_name <DATASET> --shot_num <SHOT> --seed <SEED> --load_path <PATH>
 ```

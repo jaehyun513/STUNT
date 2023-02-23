@@ -5,7 +5,7 @@ Official PyTorch implementation of ["STUNT: Few-shot Tabular Learning with Self-
 **TL;DR**: We propose a few-shot semi-supervised tabular learning framework that meta-learns over the self-generated tasks from unlabeled tables.
 
 <p align="center">
-    <img src=figure/concept_figure.png width="900"> 
+    <img src=figure/concept_figure.pdf width="900"> 
 </p>
 
 ## 1. Dependencies
@@ -46,9 +46,9 @@ python eval.py --data_name <DATASET> --shot_num <SHOT> --seed <SEED> --load_path
 ```
 
 ## Citation
-```
+```bibtex
 @inproceedings{nam2023stunt,
-  title={STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables},
+  title={{STUNT}: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables},
   author={Jaehyun Nam and Jihoon Tack and Kyungmin Lee and Hankook Lee and Jinwoo Shin},
   booktitle={International Conference on Learning Representations},
   year={2023}

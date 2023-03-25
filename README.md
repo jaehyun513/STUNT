@@ -1,6 +1,6 @@
 # STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables (ICLR 2023 Spotlight)
 
-Official PyTorch implementation of ["STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables"](https://openreview.net/forum?id=_xlsjehDvlY) by Jaehyun Nam, [Jihoon Tack](https://jihoontack.github.io/), [Kyungmin Lee](https://kyungmnlee.github.io/), [Hankook Lee](https://hankook.github.io/), [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
+Official PyTorch implementation of ["STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables"](https://openreview.net/forum?id=_xlsjehDvlY) by [Jaehyun Nam](https://jaehyun513.github.io/), [Jihoon Tack](https://jihoontack.github.io/), [Kyungmin Lee](https://kyungmnlee.github.io/), [Hankook Lee](https://hankook.github.io/), [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
 
 **TL;DR**: We propose a few-shot semi-supervised tabular learning framework that meta-learns over the self-generated tasks from unlabeled tables.
 
